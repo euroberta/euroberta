@@ -24,4 +24,4 @@
 
 - [Site de capturação de Lead e Caso no projeto DrogaNube Bootcamp Dev.Salesforce ](https://euroberta.github.io/Projeto-DrogariaNube/)
 
-- [Site de capturação de Lead para projeto final - Cooper Imobiliaria ](https://copperimobiliaria.vercel.app/)
+- [Site de capturação de Lead para projeto final em um Bootcamp Dev.Salesforce - Cooper Imobiliaria ](https://copperimobiliaria.vercel.app/)
